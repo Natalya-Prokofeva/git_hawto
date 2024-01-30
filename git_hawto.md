@@ -131,3 +131,7 @@ git branch - помогает создать ветку
 ```sh
 branch text_formating - название ветки
 ```
+
+```sh
+git merge text_formating - позволяет сохранить изменения которые были добавлены в других ветках в ветку master 
+```
