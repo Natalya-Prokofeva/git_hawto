@@ -183,7 +183,7 @@ git merge branch_name
 ```
 __*Обязательно нужно помнить, что для сохранения нужно вызвать нужную ветку (git checkout branch_name) и уже в ней вводить команду (git merge branch_name) иначе может возникнуть конфлиикт.*__
 
-![alt text](image-13.png)
+![alt text](image-17.png)
 
 * ### Позволяет удалить ненужную ветку. 
 
