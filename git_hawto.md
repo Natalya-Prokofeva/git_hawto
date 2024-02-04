@@ -218,3 +218,6 @@ clear
 2. выбрать в Visial studio подходящий вариант "![alt text](image-16.png)"
 
 ![alt text](image-14.png)
+
+Ненужная инфа
+Ненужная инфа
