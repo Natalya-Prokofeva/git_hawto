@@ -218,3 +218,8 @@ clear
 2. выбрать в Visial studio подходящий вариант "![alt text](image-16.png)"
 
 ![alt text](image-14.png)
+
+```sh
+gi clone копирование удаленного репозиториz
+```
+![alt text](image-18.png)
