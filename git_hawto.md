@@ -223,3 +223,9 @@ clear
 gi clone копирование удаленного репозиториz
 ```
 ![alt text](image-18.png)
+
+```sh
+git remote add origin https://github.com/Natalya-Prokofeva/git_hawto.git
+git branch -M main
+git push -u origin main
+```
