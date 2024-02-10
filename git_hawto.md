@@ -229,3 +229,6 @@ git remote add origin https://github.com/Natalya-Prokofeva/git_hawto.git
 git branch -M main
 git push -u origin main
 ```
+```sh
+git push - когда мы вносим изменения в VS, то надо прописать команду git push, чтобы чтобы изменения добавились в удаленный репозиторий
+```
